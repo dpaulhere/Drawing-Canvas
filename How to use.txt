@@ -1,0 +1,18 @@
+1. Open the "index.html" File - Double click on the file and it will open in your default Browser. You will be able to see the drawing canvas and toolbar with undo, redo, color picker, brush size slider and custom brush option. 
+
+2. Use the Drawing Canvas- 
+Drawing: Click and drag on the canvas to draw. The line will follow your mouse cursor using the selected color and brush size.
+
+Changing Color: Use the color picker to change the color of your brush.
+
+Changing Brush Size: Adjust the brush size using the slider to increase or decrease the thickness of your drawing line.
+
+Customizing the Cursor: To change the cursor to a custom design, use the file input to upload an image. The cursor will change to the image you uploaded while drawing. Just keep in mind that most browsers have size limits (like 32x32 or 64x64 pixels) for cursor images.
+
+You also have 'Undo' and 'Redo' button. 
+
+Now unleash your creativity and enjoy the Drawing Canvas.
+
+
+
+Thank you.
